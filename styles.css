@@ -177,7 +177,6 @@ ul a {
     flex-direction: row;
     justify-content: space-evenly;
     border: 2px dashed green;
-    height: 350px;
     margin: 25px;
     flex-wrap: wrap;
 }
@@ -219,7 +218,6 @@ img {
     flex-direction: row-reverse;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    height: 350px;
     margin: 25px;
 
 }
